@@ -1,0 +1,29 @@
+.flex{
+    display: flex;
+    background-color: beige;
+    height: 300px;
+    justify-content: space-around;
+    align-items: center;
+    /*flex-wrap: wrap;*/
+}
+.contenido-1{
+    background-color: aliceblue;
+    height: 200px;
+    width: 100px;
+    border: solid blue 1px;
+    
+}
+.contenido-2{
+    background-color: aliceblue;
+    height: 200px;
+    width: 100px;
+    border: solid blue 1px;
+    
+}
+.contenido-3{
+    background-color: aliceblue;
+    height: 200px;
+    width: 100px;
+    border: solid blue 1px;
+    
+}
